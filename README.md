@@ -6,6 +6,6 @@ javac Server.java
 
 javac Client.java
 
-java Server.java
+java Server
 
-javac Client.java
+javac Client
